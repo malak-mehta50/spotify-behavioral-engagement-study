@@ -114,7 +114,7 @@ Dashboard will include:
 | **Python** | pandas, data wrangling, ETL, feature engineering |
 | **SQL** | CTEs, window functions (LAG, AVG OVER), CASE WHEN, NULLIF, HAVING, GROUP BY, subqueries |
 | **Analytics** | YoY analysis, cohort behavior, anomaly detection, root cause analysis, variance analysis, behavioral segmentation |
-| **BI** | Power BI (in progress) |
+| **BI** | Power BI ([Analysis.md](url)) |
 
 ---
 
