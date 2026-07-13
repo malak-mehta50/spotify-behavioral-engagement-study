@@ -130,4 +130,4 @@ Spotify Extended Streaming History — personal export via Spotify Privacy Setti
 
 **Malak Mehta**  
 MS Business Analytics — University of Massachusetts Amherst  
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/malak-mehta-/) | [GitHub](#)
